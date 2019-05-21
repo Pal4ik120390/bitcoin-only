@@ -1,4 +1,5 @@
 # What is Bitcoin?
+###### *Written by [Greg Walker](https://twitter.com/in3rsha) for [bitcoin-only.com](https://www.bitcoin-only.com)*
 
 Bitcoin is an electronic payment system, but really it’s just a computer program.
 
